@@ -1,10 +1,6 @@
 # rentify
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-Sure, here's a combined explanation for your README file:
+#flutter 
+#dart
 
 **Rentify - Where Renting Meets Simplicity**
 
